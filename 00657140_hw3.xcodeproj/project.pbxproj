@@ -13,6 +13,7 @@
 		59FDD1AB237A4B3E0060CF54 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59FDD1AA237A4B3E0060CF54 /* Assets.xcassets */; };
 		59FDD1AE237A4B3E0060CF54 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59FDD1AD237A4B3E0060CF54 /* Preview Assets.xcassets */; };
 		59FDD1B1237A4B3E0060CF54 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 59FDD1AF237A4B3E0060CF54 /* LaunchScreen.storyboard */; };
+		59FDD1BB237A79970060CF54 /* Textarea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59FDD1BA237A79970060CF54 /* Textarea.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		59FDD1AD237A4B3E0060CF54 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		59FDD1B0237A4B3E0060CF54 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		59FDD1B2237A4B3E0060CF54 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		59FDD1BA237A79970060CF54 /* Textarea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Textarea.swift; path = ../Textarea.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				59FDD1A4237A4B3D0060CF54 /* AppDelegate.swift */,
 				59FDD1A6237A4B3D0060CF54 /* SceneDelegate.swift */,
 				59FDD1A8237A4B3D0060CF54 /* ContentView.swift */,
+				59FDD1BA237A79970060CF54 /* Textarea.swift */,
 				59FDD1AA237A4B3E0060CF54 /* Assets.xcassets */,
 				59FDD1AF237A4B3E0060CF54 /* LaunchScreen.storyboard */,
 				59FDD1B2237A4B3E0060CF54 /* Info.plist */,
@@ -149,6 +152,7 @@
 				59FDD1A5237A4B3D0060CF54 /* AppDelegate.swift in Sources */,
 				59FDD1A7237A4B3D0060CF54 /* SceneDelegate.swift in Sources */,
 				59FDD1A9237A4B3D0060CF54 /* ContentView.swift in Sources */,
+				59FDD1BB237A79970060CF54 /* Textarea.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
